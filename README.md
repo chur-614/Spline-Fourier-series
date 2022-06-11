@@ -8,7 +8,7 @@ Year first available：2022.06.11
 
 hardware required：Win 10 / Win 11
 
-software required：Matlab,
+software required：Matlab
 
 Matlab program size: 2KB
 
