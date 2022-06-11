@@ -1,6 +1,9 @@
+# Author: Ruichen Z. 
+# Creating time: 2022.06.11
+
 a=zeros(mm,nn);  % mm and nn are truncation orders
 asin1=linspace(0,0,Zo); % Zo is the number of modeling points of x or y direction. 
-asin2=linspace(0,0,Zo)'; % £¨when there is the same number of modeling points in x and y direction£©
+asin2=linspace(0,0,Zo)'; % Â£Â¨when there is the same number of modeling points in x and y directionÂ£Â©
 for m=0:(mm-1)
     for n=0:(nn-1)
         for i=1:Zo
