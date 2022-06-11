@@ -1,6 +1,6 @@
 # Spline-Fourier-series
 
-Name of code：“parameter_a.py”
+Name of code：“parameter_a.m”
 
 Developer and contact address: Ruichen Z.
 
@@ -10,7 +10,7 @@ hardware required：Win 10 / Win 11
 
 software required：Matlab,
 
-Matlab program size:
+Matlab program size: 2KB
 
 Digital elevation model (DEM) is known as one of the most significant fundamental geographical data, the theory, method and application of which are hot research issues in geography, especially in geomorphology, hydrology, soil and other fields.
 
